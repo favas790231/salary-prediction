@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project uses Simple Linear Regression to predict salary based on years of work experience.
+This project uses Simple Linear Regression to predict salary based on years of work experience
 
 ## Dataset
 
